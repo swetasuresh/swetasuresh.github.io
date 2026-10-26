@@ -77,7 +77,7 @@ S. Sweta, A. Anil Kumar, K. Giridhar
 **System and Method for Estimating Fractional Bin Shifts in ISAC with Multistatic Radar**
 S. Sweta, A. Anil Kumar, K. Giridhar
 *Filed (2024)*
----
+--
 
 ## Research Interests
 I am continually exploring new technical domains, but currently my interests include:
@@ -89,9 +89,9 @@ I am continually exploring new technical domains, but currently my interests inc
 However, I am always enthusiastic about learning and integrating entirely new topics into my research.
 
 ## Beyond Research
-I strongly believe that having a creative outlet helps in research. So, when I am away from research, I enjoy:
+I strongly believe that having a creative outlet helps in research and when I am away from research, I enjoy:
 * 🏸 Playing badminton
 * 🚴‍♀️ Cycling
-* 🥾 Going on beginner-level hikes
+* 🥾 Going on hikes
 * 🎻 Playing the violin
 * 🧶 Crocheting
