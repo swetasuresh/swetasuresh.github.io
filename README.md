@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-My research journey began early on during my undergraduate studies at NIT Puducherry. While my early interests were broad, my focus sharpened during my Master's at IIT Jammu where I had the opportunity to dive into the then-emerging field of Joint Radar and Communications. This led me to TCS Research, where I had the privilege of working alongside brilliant minds on ISAC and OTFS signals. This industry research experience clarified my long-term academic goals, inspiring my current PhD research at the intersection of signal processing and information theory.
+My research journey began early on during my undergraduate studies at NIT Puducherry. While my early interests were broad, my focus sharpened during my Master's at IIT Jammu where I had the opportunity to dive into the then-emerging field of dual functional radar and communications. This led me to TCS Research, where I had the privilege of working alongside brilliant minds on ISAC and OTFS signals. This industry research experience clarified my long-term academic goals, inspiring my current PhD research at the intersection of signal processing and information theory.
 
 
 ## Education
