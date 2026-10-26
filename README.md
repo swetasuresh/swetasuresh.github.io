@@ -14,7 +14,7 @@ My research journey began early on during my undergraduate studies at NIT Puduch
 * **M.Tech in Signal Processing and Communications** | IIT Jammu *(2021 - 2023)*
   * **CGPA:** 9.54/10.00
   * **Honors:** Institute Silver Medalist for securing the highest CGPA in the Department of Electrical Engineering
-  * **Thesis:** Joint Radar and Communications[cite: 1]
+  * **Thesis:** Joint Radar and Communications
 * **B.Tech in Electronics and Communications** | NIT Puducherry *(2017 - 2021)*
   * **CGPA:** 9.44/10.00
   * **Project:** Cepstral Coefficient Based Gender Classification Using Audio Signals
