@@ -8,7 +8,6 @@
 ## About Me
 My research journey began early on during my undergraduate studies at NIT Puducherry. While my early interests were broad, my focus sharpened during my Master's at IIT Jammu where I had the opportunity to dive into the then-emerging field of Joint Radar and Communications. This led me to TCS Research, where I had the privilege of working alongside brilliant minds on ISAC and OTFS signals. This industry research experience clarified my long-term academic goals, inspiring my current PhD research at the intersection of signal processing and information theory.
 
----
 
 ## Education
 * **PhD Student** | INRIA, Lyon *(Present)*
@@ -19,7 +18,6 @@ My research journey began early on during my undergraduate studies at NIT Puduch
 * **B.Tech in Electronics and Communications** | NIT Puducherry *(2017 - 2021)*
   * **CGPA:** 9.44/10.00
   * **Project:** Cepstral Coefficient Based Gender Classification Using Audio Signals
----
 
 ## Experience
 * **PhD Student** | INRIA, Lyon *(Present)*
@@ -32,9 +30,6 @@ My research journey began early on during my undergraduate studies at NIT Puduch
   * Analyzed CRC errors and worked on Downlink Channel in 5G NR.
 * **Signal Processing Intern** | Solinas Integrity Pvt. Ltd. *(Nov 2021 - Jan 2022)*
   * Developed frequency domain analysis (STFT) methods to detect pipe leaks.
-
----
-
 
 ## Publications
 ### Conferences
@@ -77,7 +72,6 @@ S. Sweta, A. Anil Kumar, K. Giridhar
 **System and Method for Estimating Fractional Bin Shifts in ISAC with Multistatic Radar**
 S. Sweta, A. Anil Kumar, K. Giridhar
 *Filed (2024)*
---
 
 ## Research Interests
 I am continually exploring new technical domains, but currently my interests include:
