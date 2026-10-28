@@ -60,7 +60,7 @@ S. Sweta, A. Dubey, V.-L. Nguyen
 *IEEE Communications Letters, vol. 28, no. 1, pp. 39-42, Jan. 2024* [download](https://ieeexplore.ieee.org/abstract/document/10329340/)
 
  **PACE: Pilot Agnostic Channel Estimation for OTFS-based Multistatic ISAC System**
-S. Sweta, Prasikaa Shree S, Sruti S, et al.
+Prasikaa Shree S, S. Sweta, Sruti S, et al.
 *Submitted to IEEE Transactions on Communications (TComm)* [download](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173396072.27138458/v1)
 
 ### Patents
